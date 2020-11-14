@@ -1,0 +1,13 @@
+D:\Дистанционка\Практика с#\TrainingPractice_01\LVY_Task_05\bin\Debug\netcoreapp3.1\LVY_Task_05.exe
+D:\Дистанционка\Практика с#\TrainingPractice_01\LVY_Task_05\bin\Debug\netcoreapp3.1\LVY_Task_05.deps.json
+D:\Дистанционка\Практика с#\TrainingPractice_01\LVY_Task_05\bin\Debug\netcoreapp3.1\LVY_Task_05.runtimeconfig.json
+D:\Дистанционка\Практика с#\TrainingPractice_01\LVY_Task_05\bin\Debug\netcoreapp3.1\LVY_Task_05.runtimeconfig.dev.json
+D:\Дистанционка\Практика с#\TrainingPractice_01\LVY_Task_05\bin\Debug\netcoreapp3.1\LVY_Task_05.dll
+D:\Дистанционка\Практика с#\TrainingPractice_01\LVY_Task_05\bin\Debug\netcoreapp3.1\LVY_Task_05.pdb
+D:\Дистанционка\Практика с#\TrainingPractice_01\LVY_Task_05\obj\Debug\netcoreapp3.1\LVY_Task_05.csprojAssemblyReference.cache
+D:\Дистанционка\Практика с#\TrainingPractice_01\LVY_Task_05\obj\Debug\netcoreapp3.1\LVY_Task_05.AssemblyInfoInputs.cache
+D:\Дистанционка\Практика с#\TrainingPractice_01\LVY_Task_05\obj\Debug\netcoreapp3.1\LVY_Task_05.AssemblyInfo.cs
+D:\Дистанционка\Практика с#\TrainingPractice_01\LVY_Task_05\obj\Debug\netcoreapp3.1\LVY_Task_05.csproj.CoreCompileInputs.cache
+D:\Дистанционка\Практика с#\TrainingPractice_01\LVY_Task_05\obj\Debug\netcoreapp3.1\LVY_Task_05.dll
+D:\Дистанционка\Практика с#\TrainingPractice_01\LVY_Task_05\obj\Debug\netcoreapp3.1\LVY_Task_05.pdb
+D:\Дистанционка\Практика с#\TrainingPractice_01\LVY_Task_05\obj\Debug\netcoreapp3.1\LVY_Task_05.genruntimeconfig.cache
