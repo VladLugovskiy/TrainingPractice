@@ -1,0 +1,10 @@
+D:\Дистанционка\Практика с#\TrainingPractice_02\TrainingPractice_02\bin\Debug\TrainingPractice_02.exe.config
+D:\Дистанционка\Практика с#\TrainingPractice_02\TrainingPractice_02\bin\Debug\TrainingPractice_02.exe
+D:\Дистанционка\Практика с#\TrainingPractice_02\TrainingPractice_02\bin\Debug\TrainingPractice_02.pdb
+D:\Дистанционка\Практика с#\TrainingPractice_02\TrainingPractice_02\obj\Debug\TrainingPractice_02.csprojAssemblyReference.cache
+D:\Дистанционка\Практика с#\TrainingPractice_02\TrainingPractice_02\obj\Debug\TrainingPractice_02.Form1.resources
+D:\Дистанционка\Практика с#\TrainingPractice_02\TrainingPractice_02\obj\Debug\TrainingPractice_02.Properties.Resources.resources
+D:\Дистанционка\Практика с#\TrainingPractice_02\TrainingPractice_02\obj\Debug\TrainingPractice_02.csproj.GenerateResource.cache
+D:\Дистанционка\Практика с#\TrainingPractice_02\TrainingPractice_02\obj\Debug\TrainingPractice_02.csproj.CoreCompileInputs.cache
+D:\Дистанционка\Практика с#\TrainingPractice_02\TrainingPractice_02\obj\Debug\TrainingPractice_02.exe
+D:\Дистанционка\Практика с#\TrainingPractice_02\TrainingPractice_02\obj\Debug\TrainingPractice_02.pdb
